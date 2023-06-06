@@ -1,7 +1,8 @@
 <param ve-config 
        title="Yerba Mate: From Sacred Drink to Caffeinated Star"
        author="Lucas Mertehikian"
-       banner="Yerba_Mate.jpg">
+       source-image="https://github.com/lucasmerte/testvfr/blob/main/Yerba_Mate.jpg?raw=true"
+       banner="https://github.com/lucasmerte/testvfr/blob/main/Yerba_Mate.jpg?raw=true">
 
 ### Introduction
 
