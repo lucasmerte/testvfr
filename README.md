@@ -8,8 +8,16 @@
 
 Ilex paraguariensis is an evergreen shrub or tree native to the subtropical forests of Brazil, Paraguay, Uruguay, and Argentina that can grow up to forty-nine feet tall. It’s a plant species of the genus ilex (or “holly”) that contains caffeine as well as other alkaloid components, and it has stimulant, diuretic, antioxidant, and antimicrobial properties that made it attractive to both the indigenous Guaraní people and to Spanish colonial settlers. After being dried, roasted, and powdered, mate leaves are used to prepare a hot or cold beverage, also known as mate or Paraguayan Tea. The loose powder is typically steeped in hot water and strained through a metallic straw, or bombilla, shared by many people, passing from mouth to mouth. During the 19th century, the drink became associated with South American _gauchos_. The same mate and bombilla are shared in social gatherings, a habit that has endured despite recent public health campaigns to prevent COVID-19 pandemic.
 
-<param ve-compare curtain url="https://stor.artstor.org/stor/10970784-2155-498d-8b05-d8586b1f67d0" label="Cafe Nero High Street (2021)" description="Canterbury High Street 2021" attribution="Calum Elliot and Emma Molford" license="In Copyright">
-<param ve-compare url="https://stor.artstor.org/stor/1420f054-9ba2-427b-b007-6aa22a7e785d" label="Cafe Nero High Street (pre 1918)" description="Canterbury High Street. Unposted and with no identifying features." license="No Known Copyright">
+<param ve-compare curtain 
+       label="Gauchos drinking mate" 
+       description="Painting by Candido Lopez" 
+       license="public domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg" >
+<param ve-compare 
+       label="Botanical llustration" 
+       description="Photograph" 
+       license="public domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/2/28/Ilex_paraguariensis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-074.jpg">
 
 ## History 
 
