@@ -2,7 +2,8 @@
        title="Yerba Mate: From Sacred Drink to Caffeinated Star"
        author="Lucas Mertehikian"
        source-image="https://github.com/lucasmerte/testvfr/blob/main/Yerba_Mate.jpg?raw=true"
-       banner="https://github.com/lucasmerte/testvfr/blob/main/Yerba_Mate.jpg?raw=true">
+       banner="https://github.com/lucasmerte/testvfr/blob/main/Yerba_Mate.jpg?raw=true"
+       layout="vertical">
 
 ### Introduction
 
