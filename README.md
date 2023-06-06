@@ -12,7 +12,7 @@ Ilex paraguariensis is an evergreen shrub or tree native to the subtropical fore
        label="Gauchos drinking mate" 
        description="Painting by Candido Lopez" 
        license="public domain">
-<param ve-compare  url="https://upload.wikimedia.org/wikipedia/commons/2/28/Ilex_paraguariensis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-074.jpg"
+<param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/2/28/Ilex_paraguariensis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-074.jpg"
        label="Botanical llustration" 
        description="Photograph" 
        license="public domain">
