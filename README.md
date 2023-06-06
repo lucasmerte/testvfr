@@ -13,7 +13,7 @@
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg"
        
-       <param ve-image label="Botanical llustration" 
+param ve-image label="Botanical llustration" 
        description="Photograph" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/2/28/Ilex_paraguariensis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-074.jpg">
