@@ -1,10 +1,8 @@
-<param ve-config
-	title="Maize: Sacred Plant, Global Commodity"
-       source-image="https://github.com/JSTOR-Labs/plant-humanities/blob/main/maize/banner_Baumann_Hopi_Corn_Indianapolis_Museum_of_Art_In_Copyright_Bridgeman_Images.jpg?raw=true"
-       banner="https://github.com/JSTOR-Labs/plant-humanities/blob/main/maize/banner_Baumann_Hopi_Corn_Indianapolis_Museum_of_Art_In_Copyright_Bridgeman_Images.jpg?raw=true"
-       layout="vtl"
-       author="Julia Fine"
-       description=“Add.”>
+<param ve-config 
+       title="Yerba Mate: From Sacred Drink to Caffeinated Star"
+       author="Lucas Mertehikian"
+       banner="Yerbamate1.jpg" 
+       layout="vertical">
 
 ### Introduction
 
@@ -14,3 +12,4 @@
        description="Painting by Candido Lopez" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg">
+<param ve-entity eid:"Q155" title="Brazil">
