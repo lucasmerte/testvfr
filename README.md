@@ -8,16 +8,9 @@
 
 Ilex paraguariensis is an evergreen shrub or tree native to the subtropical forests of Brazil, Paraguay, Uruguay, and Argentina that can grow up to forty-nine feet tall. It’s a plant species of the genus ilex (or “holly”) that contains caffeine as well as other alkaloid components, and it has stimulant, diuretic, antioxidant, and antimicrobial properties that made it attractive to both the indigenous Guaraní people and to Spanish colonial settlers. After being dried, roasted, and powdered, mate leaves are used to prepare a hot or cold beverage, also known as mate or Paraguayan Tea. The loose powder is typically steeped in hot water and strained through a metallic straw, or bombilla, shared by many people, passing from mouth to mouth. During the 19th century, the drink became associated with South American _gauchos_. The same mate and bombilla are shared in social gatherings, a habit that has endured despite recent public health campaigns to prevent COVID-19 pandemic.
 
-<param ve-compare curtain 
-       label="Gauchos drinking mate" 
-       description="Painting by Candido Lopez" 
-       license="public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg">
-<param ve-compare 
-       label="Botanical llustration" 
-       description="Photograph" 
-       license="public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/2/28/Ilex_paraguariensis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-074.jpg">
+<param ve-compare curtain url="https://upload.wikimedia.org/wikipedia/commons/b/bf/Bee_hummingbird_%28Mellisuga_helenae%29_immature_male.jpg" label="Bee hummingbird (Mellisuga helenae) immature male">
+<param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/a/ac/European_roller_%28Coracias_garrulus%29_2.jpg" label="European roller (Coracias garrulus)">
+<param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/9/98/Picoides_pubescens_f_CTB.jpg" label="Picoides pubescens">  
 
 ## History 
 
