@@ -11,7 +11,7 @@
 <param ve-image label="Gauchos drinking mate" 
        description="Painting by Candido Lopez" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg"
        
        <param ve-image label="Botanical llustration" 
        description="Photograph" 
